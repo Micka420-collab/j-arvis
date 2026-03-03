@@ -131,7 +131,7 @@ Envoyez ces commandes sur WhatsApp/Telegram/Slack/Discord/WebChat :
 ## 🛠️ Développement
 
 ```bash
-git clone <votre-repo>
+git clone (https://github.com/Micka420-collab/j-arvis.git)
 cd jarvis
 
 pnpm install
